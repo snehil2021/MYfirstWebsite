@@ -5,3 +5,4 @@ Auto fill up bars, interactive animations and backgrounds
 
 
 # setup
+clich here: https://snehil2021.github.io/MyFirstWebsite/
